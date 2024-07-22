@@ -149,13 +149,13 @@ body{
 }
 .box{
     order: 2;;
-    width:  58%;
+    width: 52%;
     border-radius:0px 0px 8px 8px ;
 }
 img{
     order: 1;
-    width: 58%;
-    
+    width: 52%;
+    height: 34vh;
     border-radius:8px 8px 0px 0px ;
     
 }
@@ -184,6 +184,7 @@ body{
 img{
     order: 1;
     width:50%;
+    height: 43vh;
     border-radius:8px 8px 0px 0px ;
     
 }
